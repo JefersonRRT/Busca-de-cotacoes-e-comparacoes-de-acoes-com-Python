@@ -6,6 +6,8 @@
     pandas_datareader;
     matplot.pyplot;
     
-
+## Referências:
+    Trading com Dados;
+    Hashtag Programação;
 
 
